@@ -19,6 +19,11 @@ const content = getSiteContent();
 export const metadata: Metadata = {
   title: content.seo.title,
   description: content.seo.description,
+  icons: {
+    icon: "/logo.webp",
+    shortcut: "/logo.webp",
+    apple: "/logo.webp",
+  },
   openGraph: {
     title: content.seo.title,
     description: content.seo.description,

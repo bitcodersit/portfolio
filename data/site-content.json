@@ -1,0 +1,130 @@
+{
+  "company": {
+    "name": "BitCoders IT",
+    "tagline": "Reliable software solutions for modern businesses.",
+    "description": "We are three friends and engineers building scalable, user-focused digital products for startups and enterprises.",
+    "foundedBy": ["Ravi Kumar", "Nisha Patel", "Arjun Mehta"],
+    "stats": [
+      { "label": "Projects Delivered", "value": "45+" },
+      { "label": "Client Satisfaction", "value": "98%" },
+      { "label": "Years Experience", "value": "8+" }
+    ]
+  },
+  "hero": {
+    "headline": "Build Better Digital Products With Confidence",
+    "subheadline": "From idea to deployment, BitCoders IT helps you launch secure, high-performance software.",
+    "primaryCta": { "label": "Start a Project", "href": "#contact" },
+    "secondaryCta": { "label": "View Our Work", "href": "#projects" }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "To empower businesses with technology that is practical, scalable, and future-ready.",
+    "vision": "To become a trusted global IT partner known for quality engineering and lasting client relationships.",
+    "values": ["Transparency", "Ownership", "Continuous Improvement", "Client Success"]
+  },
+  "services": [
+    {
+      "title": "Web Application Development",
+      "description": "Custom web apps with modern frameworks, clean architecture, and performance-first engineering."
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Cross-platform mobile solutions with intuitive UX and robust backend integration."
+    },
+    {
+      "title": "Cloud & DevOps",
+      "description": "CI/CD pipelines, containerization, and cloud deployments for faster and reliable delivery."
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Human-centered design systems and interfaces that improve usability and engagement."
+    }
+  ],
+  "projects": [
+    {
+      "name": "sveltuse",
+      "summary": "Collection of essential Svelte composition utilities for Svelte and SvelteKit.",
+      "tech": ["TypeScript", "Svelte"],
+      "result": "Top starred open-source utility project by the founding team.",
+      "url": "https://github.com/rkanik/sveltuse",
+      "owner": "Md Rasel Khandkar"
+    },
+    {
+      "name": "ai-daily-report",
+      "summary": "AI-powered daily reporting assistant that summarizes progress across tools like Jira and Telegram.",
+      "tech": ["JavaScript"],
+      "result": "Practical productivity tool focused on reporting automation.",
+      "url": "https://github.com/sazal-das/ai-daily-report",
+      "owner": "Sazal Chandra Das"
+    },
+    {
+      "name": "weather-app-react",
+      "summary": "Weather app with current conditions and 5-day forecast visualization.",
+      "tech": ["JavaScript", "React"],
+      "result": "Clean frontend implementation with practical real-time weather use cases.",
+      "url": "https://github.com/Ashfaqul-Asif/weather-app-react",
+      "owner": "Ashfaqul Alam Asif"
+    }
+  ],
+  "testimonials": [
+    {
+      "client": "Aman Shah, Product Lead at NovaPay",
+      "feedback": "BitCoders IT transformed our MVP into a production-ready platform in record time."
+    },
+    {
+      "client": "Priya Desai, Operations Head at Medinex",
+      "feedback": "Their team is proactive, transparent, and delivers exactly what they promise."
+    },
+    {
+      "client": "Rahul Sen, Founder at RetailPilot",
+      "feedback": "Great engineering quality and communication. They feel like an extension of our team."
+    }
+  ],
+  "team": [
+    {
+      "name": "Md Rasel Khandkar",
+      "role": "Co-Founder & Full-Stack Engineer",
+      "bio": "Senior Software Engineer focused on scalable full-stack systems and developer tooling.",
+      "github": "https://github.com/rkanik",
+      "location": "Dhaka, Bangladesh",
+      "username": "rkanik",
+      "avatar": "https://github.com/rkanik.png"
+    },
+    {
+      "name": "Sazal Chandra Das",
+      "role": "Co-Founder & Frontend Engineer",
+      "bio": "Frontend developer experienced with Vue.js, Quasar, Bootstrap, and modern UI engineering.",
+      "github": "https://github.com/sazal-das",
+      "location": "Savar, Dhaka, Bangladesh",
+      "username": "sazal-das",
+      "avatar": "https://github.com/sazal-das.png"
+    },
+    {
+      "name": "Ashfaqul Alam Asif",
+      "role": "Co-Founder & DevOps Engineer",
+      "bio": "Engineer with experience in frontend and full-stack projects with a practical product mindset.",
+      "github": "https://github.com/Ashfaqul-Asif",
+      "location": "Dhaka, Bangladesh",
+      "username": "Ashfaqul-Asif",
+      "avatar": "https://github.com/Ashfaqul-Asif.png"
+    }
+  ],
+  "contact": {
+    "title": "Let us build your next product",
+    "email": "hello@bitcodersit.com",
+    "phone": "+880 1700 000000",
+    "address": "Dhaka, Bangladesh"
+  },
+  "footer": {
+    "copyright": "2026 BitCoders IT. All rights reserved.",
+    "links": [
+      { "label": "Services", "href": "#services" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "seo": {
+    "title": "BitCoders IT | Web, Mobile & Cloud Solutions",
+    "description": "BitCoders IT is a modern software company delivering web apps, mobile apps, cloud, and product engineering services."
+  }
+}
